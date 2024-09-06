@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+  color: #fff;
+}
+
+p {
+  font-size: 18px;
+}
+
+.card h1 {
+  font-weight: 600;
+}
+
+header {
+  margin: 0 auto;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  background-color: blueviolet;
+  color: #fff;
+}/*# sourceMappingURL=main.css.map */
